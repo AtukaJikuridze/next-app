@@ -9,8 +9,8 @@ export default function NavbarLinks() {
         </Link>
       </li>
       <li>
-        <Link href={"products"} className="underline font-bold text-white">
-          Products
+        <Link href={"/cats"} className="underline font-bold text-white">
+          Cats
         </Link>
       </li>
     </ul>
